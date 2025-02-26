@@ -1,3 +1,1 @@
-# eventosAppMB
-# restFullApi
 # eventosAppWeb
